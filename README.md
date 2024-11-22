@@ -8,15 +8,16 @@
 
 <p align = "center" float="left">
   <img align="top" src="https://streak-stats.demolab.com/?user=Brooke-8&theme=prussian&hide_border=true" alt="GitHub Streak" width="40%" height = "200"/>
-  <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brooke-8&theme=prussian" width="55%" height = "200">
+  <img align="top" src="https://profilesummary.vercel.app/api/cards/profile-details?username=Brooke-8&theme=prussian" width="55%" height = "200">
+  
 </p>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brooke-8&custom_title=Brooke's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=173044&color=bde0fd&line=3aa3fb&point=bde0fd&area_color=000000&title_color=bde0fd&area=true" alt="GitHub Activity Graph" />
 
 <p align ="center" float="left">
-  <img align="top" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brooke-8&theme=prussian&hide_border=true" alt="Repos Per Language" width = "34%" height = "200">
-  <img align="top" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brooke-8&theme=prussian&hide=html&hide_border=true&langs_count=8" alt="Top Languages" width = "36%" height = "200">
+  <img align="top" src="https://profilesummary.vercel.app/api/cards/repos-per-language?username=Brooke-8&theme=prussian&hide_border=true" alt="Repos Per Language" width = "34%" height = "200">
+  <img align="top" src="https://profilesummary.vercel.app/api/cards/most-commit-language?username=Brooke-8&theme=prussian&hide=html&hide_border=true&langs_count=8" alt="Top Languages" width = "36%" height = "200">
 </p>
 <p align = "center" float="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
